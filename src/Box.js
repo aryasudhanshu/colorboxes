@@ -4,7 +4,7 @@ import { choice } from './helpers';
 
 class Box extends Component {
   static defaultProps = {
-    allColors: ['purple', 'magenta', 'violet', 'pink']
+    allColors: ['purple', 'magenta', 'violet', 'pink', 'blue', 'black', 'green', 'aliceblue', 'white', 'grey', 'lightgreen']
   }
 
   constructor(props) {
